@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: blue;
+}
+
+iframe{
+    border:5px solid blue;
+    border-radius: 5px;
+    
+}
